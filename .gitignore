@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+data/
+*.mp4
+*.png
+*.jpg
+*.jpeg
+fahad_portfolio_edited.mp4
+overlay.png
+frame_check.png
+frame_2s.png
+photo_test.png
+drawtest.png
+font.ttf
+overlay_filter.txt
